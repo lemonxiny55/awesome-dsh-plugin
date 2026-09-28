@@ -1,0 +1,6 @@
+url: https://github.com/lemonxiny55/dsh-lint-loop
+name: lemonxiny55/dsh-lint-loop
+category: dev
+description:
+  en: Regression-aware lint repair for DeepSeek Harness; fixes only lint regressions introduced or changed during the current Agent turn.
+  zh: 面向 DeepSeek Harness 的回归感知 lint 修复，只修复 Agent 本轮引入或改变的问题，并忽略历史 lint 债务。
